@@ -20,4 +20,4 @@
 
 ### :man_technologist: About Me :
   
-  I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https://media.giphy.com/media/yOBSV38yqFVLBDPTi9/giphy-downsized-large.gif" width="30">. 
+  I am a Data Analyst, Data Engineer and Administrator from Brazil  <img src="https://media.giphy.com/media/3oEjHRTJLJVfJgUhk4/giphy.gif" width="30">. 
