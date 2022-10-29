@@ -11,5 +11,5 @@
 <img src="https://komarev.com/ghpvc/?username=RaphaelAmorimSantana&style=flat-square&color=blue" alt=""/>  
 <h1>
   Welcome to my Github
-  <img src="https://media.giphy.com/media/GThWuh0DGMIU/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/GThWuh0DGMIU/giphy.gif" width="50px"/>
 </h1>
