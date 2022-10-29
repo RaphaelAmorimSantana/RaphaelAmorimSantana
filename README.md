@@ -16,3 +16,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :man_technologist: About Me :
+  
+  I am a Data Analyst, Data Engineer and Administrator <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="50"> from Brazil.
