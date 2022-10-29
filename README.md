@@ -58,6 +58,16 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ---
 
 
+:star: Here are some Power BI projects that I Developed:
+- [Video Game Sales](https://app.powerbi.com/view?r=eyJrIjoiMTk5ZGY1ZWQtNjg5Mi00ZjA5LWIyNWUtYmExN2QyOTBmZDJmIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
+- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
