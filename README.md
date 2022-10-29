@@ -61,11 +61,11 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=DNUbRMeUmwA&t=8s)
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=cbM8FZddO_c&t=4s)
-- [12 ways to center a div](https://www.youtube.com/watch?v=uvbJZk-kaA8)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=aa3r5F1OAF4&t=2s)
-- [JavaScript Variables](https://www.youtube.com/watch?v=F-U1Y11u9cg)
+- [Cuidado ao usar o Slicer (Segmentador de dados) - Power BI](https://www.youtube.com/watch?v=DNUbRMeUmwA&t=8s)
+- [Análise Google Interview Warmup , vale a pena usar?](https://www.youtube.com/watch?v=cbM8FZddO_c&t=4s)
+- [Acesso ao S3 pelo AWS CLI no Pentaho - Instalação e Configuração](https://www.youtube.com/watch?v=uvbJZk-kaA8)
+- [O que é entregar valor para o Cliente? Projetos de Dados](https://www.youtube.com/watch?v=aa3r5F1OAF4&t=2s)
+- [Erros comuns em inglês - Área de Dados](https://www.youtube.com/watch?v=F-U1Y11u9cg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCD0hywLbFyS_3i5Lh5dJH3Q/featured)
