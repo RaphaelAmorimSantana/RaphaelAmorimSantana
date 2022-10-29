@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https://media.giphy.com/media/3oEjHRTJLJVfJgUhk4/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm working as a Data Analyst and I work end-to-end on business intelligence projects.
 
 - :seedling: Exploring Technical Content Writing.
 
