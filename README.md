@@ -43,6 +43,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
   <img src="https://e7.pngegg.com/pngimages/338/123/png-clipart-microsoft-sql-server-sql-server-management-studio-database-transact-sql-microsoft-angle-white-thumbnail.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
