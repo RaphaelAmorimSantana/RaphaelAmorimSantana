@@ -26,7 +26,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 - :seedling: I have a youtube channel with technical content about my area of expertise.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I love to play guitar, aquarium and do exercise
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-amorim-de-santana)
 
