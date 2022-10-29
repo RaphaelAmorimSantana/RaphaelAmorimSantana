@@ -13,3 +13,6 @@
   Welcome to my Github
   <img src="https://media.giphy.com/media/GThWuh0DGMIU/giphy.gif" width="50px"/>
 </h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="600" height="300"/>
+</div>
