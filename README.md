@@ -39,7 +39,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
   <img src="https://www.vhv.rs/dpng/d/518-5188627_apache-airflow-documentation-airflow-documentation-apache-airflow-logo.png" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/344/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://img2.freepng.es/20180623/cwk/kisspng-computer-software-data-analytics-tableau-software-5b2e92d865baa5.4463834015297789044167.jpg" title="Pentaho" alt="Pentaho" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google CLoud" width="40" height="40"/>&nbsp;
   <img src="https://e7.pngegg.com/pngimages/338/123/png-clipart-microsoft-sql-server-sql-server-management-studio-database-transact-sql-microsoft-angle-white-thumbnail.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
