@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<img src="https://assets-global.website-files.com/5a1eb87c9afe1000014a4c7d/5e28e2144f620b29036c2620_marketing%20analytics%20terminology.gif" width="130"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/raphael-amorim-de-santana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
