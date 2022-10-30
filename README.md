@@ -62,7 +62,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 ---
 
-### :hammer_and_wrench: Languages/Tools I'm learning :
+### :hammer_and_wrench: Languages/Tools I'm learning, but I can use them :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
