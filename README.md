@@ -28,9 +28,13 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 - :zap: In my free time, I love to play guitar, aquarium and do exercise
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-amorim-de-santana)
-
 ---
+
+  #### 📫 How to reach me:
+  
+[<img src="https://pics.freeicons.io/uploads/icons/png/2406986691557740373-512.png" width="3.5%"/>](https://www.youtube.com/channel/UCD0hywLbFyS_3i5Lh5dJH3Q)  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/raphael-amorim-de-santana/)  &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/cerradoaquarios/)  &nbsp; <a href="mailto:bifastsolutions@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,13 +55,6 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ---
 
 ### :fire: My Stats :
-
-<a href="https://github.com/RaphaelAmorimSantana/RaphaelAmorimSantana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/RaphaelAmorimSantana/RaphaelAmorimSantana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
