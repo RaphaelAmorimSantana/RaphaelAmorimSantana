@@ -49,24 +49,29 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
   
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages/Tools I'm good at :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/344/power-bi.png" title="Power BI" alt="Powr BI" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/344/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://www.freelogovectors.net/wp-content/uploads/2018/06/pentaho-logo-600x168.png" title="Pentaho" alt="Pentaho" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google CLoud" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/344/microsoft-sql-server.png" title="SQL Server"  alt="SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Coide" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
+### :hammer_and_wrench: Languages/Tools I'm learning :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/344/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  
+--- 
+  
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats) 
