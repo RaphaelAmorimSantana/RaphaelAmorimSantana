@@ -60,7 +60,11 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 #### 🧡 &nbsp;&nbsp;My Certifications
 
 - [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
-- [Magic The Gathering](https://app.powerbi.com/view?r=eyJrIjoiYzUwYzQxNTItYjZmMS00NDY4LWI1NTUtNzM0Mzc1NWEwZGNhIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
+- [![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/100x100/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png)](https://www.credly.com/badges/93792e57-e8cf-415c-859e-199632837b3c/public_url) 
+- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url)
+- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
 
 
 :star: Here are some Power BI projects that I Developed:
