@@ -32,10 +32,10 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ---
 
   #### <img src='https://pics.freeicons.io/uploads/icons/png/10788733651635788111-512.png' width='25' /> languages that I speak:
-
-[<img src="https://pics.freeicons.io/uploads/icons/png/6626585481626934373-512.png" title="Brazil" alt="Brazil" width="40" height="40"/>&nbsp;
-[<img src="https://pics.freeicons.io/uploads/icons/png/8135316451626934445-512.png" title="English" alt="English" width="40" height="40"/>&nbsp;
-[<img src="https://pics.freeicons.io/uploads/icons/png/4177148821626934400-512.png" title="Japanese" alt="Japanese" width="40" height="40"/>&nbsp;
+<div>
+ <img src="https://pics.freeicons.io/uploads/icons/png/6626585481626934373-512.png" title="Brazil" alt="Brazil" width="40" height="40"/>&nbsp;
+ <img src="https://pics.freeicons.io/uploads/icons/png/8135316451626934445-512.png" title="English" alt="English" width="40" height="40"/>&nbsp;
+ <img src="https://pics.freeicons.io/uploads/icons/png/4177148821626934400-512.png" title="Japanese" alt="Japanese" width="40" height="40"/>&nbsp;
 
 ---
 
