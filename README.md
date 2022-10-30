@@ -21,6 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
+
 I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https://media.giphy.com/media/3oEjHRTJLJVfJgUhk4/giphy.gif" width="30">.
 - :telescope: I'm working as a Data Analyst and I work end-to-end on business intelligence projects.
 
@@ -32,7 +33,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
   #### 📫 How to reach me:
   
-[<img src="https://pics.freeicons.io/uploads/icons/png/2406986691557740373-512.png" width="3.5%"/>](https://www.youtube.com/channel/UCD0hywLbFyS_3i5Lh5dJH3Q)  &nbsp;
+[<img src="https://pics.freeicons.io/uploads/icons/png/16216358401530103330-512.png" width="3.5%"/>](https://www.youtube.com/channel/UCD0hywLbFyS_3i5Lh5dJH3Q)  &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/raphael-amorim-de-santana/)  &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/cerradoaquarios/)  &nbsp; <a href="mailto:bifastsolutions@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
