@@ -51,11 +51,11 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RaphaelAmorimSantana&theme=dark&background=000000)](https://git.io/streak-stats)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
+
 
 ---
 
