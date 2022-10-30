@@ -33,7 +33,8 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 #### 🌐 languages that I speak:
 
-<img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png">
+<div>
+  <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" title="Portuguese" alt="Portuguese" width="40" height="40"/>&nbsp;
 
 ---
 
