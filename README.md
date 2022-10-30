@@ -59,7 +59,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 #### 🧡 &nbsp;&nbsp;My Certifications
 
-- [![AWS Certified Cloud Practitioner]("https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40"/>&nbsp;)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![AWS Certified Cloud Practitioner]("https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="40" height="40")](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
 - [Magic The Gathering](https://app.powerbi.com/view?r=eyJrIjoiYzUwYzQxNTItYjZmMS00NDY4LWI1NTUtNzM0Mzc1NWEwZGNhIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
 
 
