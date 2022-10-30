@@ -55,6 +55,8 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
+
 ---
 
 #### 🧡 &nbsp;&nbsp;My Certifications
