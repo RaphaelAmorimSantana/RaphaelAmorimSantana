@@ -33,7 +33,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 #### 🌐 languages that I speak:
 
-[![AWS Certified Cloud Practitioner](https://pics.freeicons.io/uploads/icons/png/6626585481626934373-512.png)]
+(https://pics.freeicons.io/uploads/icons/png/6626585481626934373-512.png)
 
 ---
 
