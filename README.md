@@ -59,13 +59,13 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 
 :star: Here are some Power BI projects that I Developed:
-- [Video Game Sales](https://app.powerbi.com/view?r=eyJrIjoiMTk5ZGY1ZWQtNjg5Mi00ZjA5LWIyNWUtYmExN2QyOTBmZDJmIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
-- [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
-- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
-- [Nepgear](https://t.me/NepgearBot)
-- [WhoisBot](https://t.me/WhoisBot)
-- [Moe API](https://beta.moe.team)
 
+- [Video Game Sales](https://app.powerbi.com/view?r=eyJrIjoiMTk5ZGY1ZWQtNjg5Mi00ZjA5LWIyNWUtYmExN2QyOTBmZDJmIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
+- [Magic The Gathering](https://app.powerbi.com/view?r=eyJrIjoiYzUwYzQxNTItYjZmMS00NDY4LWI1NTUtNzM0Mzc1NWEwZGNhIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection)
+- [Project management](https://app.powerbi.com/view?r=eyJrIjoiMDU3ZmQ2ODMtZDNmMy00MDcxLTlkZTctYTEwMWI2MGI5NmRlIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSectionf788636993bdcfde90a5)
+- [People](https://app.powerbi.com/view?r=eyJrIjoiZWIxZTdiYjAtODM3OS00ZWUzLWI3MWUtOWVjMmFkNmFiNmZhIiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSection780208cc3ded3a3e0b86)
+- [Financial](https://app.powerbi.com/view?r=eyJrIjoiZDkxMWQ0ODctYmNjMS00ODVlLTlkY2ItZTgwYjQzNzRjMjY3IiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSectiondf5894d6ada741346fe9)
+- [Commercial](https://app.powerbi.com/view?r=eyJrIjoiZDkxMWQ0ODctYmNjMS00ODVlLTlkY2ItZTgwYjQzNzRjMjY3IiwidCI6IjNmMWEwN2Q1LWViY2ItNGM4ZC04NWM4LTZmNWFmZTMwMjc2ZCJ9&pageName=ReportSectiondf5894d6ada741346fe9)
 ---
 
 ### 📺 Latest YouTube Videos
