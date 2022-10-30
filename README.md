@@ -64,13 +64,6 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaphaelAmorimSantana&theme=dark)](https://git.io/streak-stats)  
   
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ---
 
 #### 🧡 &nbsp;&nbsp;My Certifications
