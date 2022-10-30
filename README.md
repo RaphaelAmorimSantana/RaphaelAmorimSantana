@@ -51,6 +51,15 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 ---
 
 ### :fire: My Stats :
+
+<a href="https://github.com/RaphaelAmorimSantana/RaphaelAmorimSantana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/RaphaelAmorimSantana/RaphaelAmorimSantana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=RaphaelAmorimSantana)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelAmorimSantana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
