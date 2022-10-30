@@ -43,7 +43,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/344/power-bi.png" title="Power BI" alt="Powr BI" width="40" height="40"/>&nbsp;
-  <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.html" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://upload.vectorlogo.zone/logos/apache_airflow/apache-airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/344/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://img2.freepng.es/20180623/cwk/kisspng-computer-software-data-analytics-tableau-software-5b2e92d865baa5.4463834015297789044167.jpg" title="Pentaho" alt="Pentaho" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google CLoud" width="40" height="40"/>&nbsp;
