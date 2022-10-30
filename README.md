@@ -35,7 +35,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 <div>
   <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" title="Portuguese" alt="Portuguese" width="40" height="40"/>&nbsp;
-  <img src="https://cdn5.vectorstock.com/i/1000x1000/02/49/usa-uk-flag-unity1-vector-4690249.jpg" title="English" alt="English" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0KNSGEnZlIAhw08yksEId-qTTqonGEILIVnkDgnD58tl-sCjIaUN20oCFg1xxJHhDRI&usqp=CAU" title="English" alt="English" width="40" height="40"/>&nbsp;
   <img src="https://www.countryflags.com/wp-content/uploads/japan-flag-png-xl.png" title="Japanese" alt="Japanese" width="40" height="40"/>&nbsp;
   
 
