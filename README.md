@@ -61,10 +61,11 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
 
 - [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
 - [![Microsoft Certified: Power BI Data Analyst Associate](https://images.credly.com/size/100x100/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png)](https://www.credly.com/badges/93792e57-e8cf-415c-859e-199632837b3c/public_url) 
-- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url)
-- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
-- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
-- [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![MTA: Database Fundamentals](https://images.credly.com/size/100x100/images/89076aca-a42e-47e1-8172-5b60b31812d9/MTA-Database_Fundamentals.png)](https://www.credly.com/badges/146590a2-343b-4bad-9a79-a8f86c1d9a79/public_url)
+- [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url) 
+- [![Lifelong Learning](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5a44df9a-16ba-4385-89e0-27305a693b39/public_url)
+- [![SUSE Linux Enterprise Server 15 Administration](https://api.dbadge.com.br/media/uploads/badges/assertion-LiM0DJa2TTa20ge7jVaXuQ.png)](https://api.dbadge.com.br/public/assertions/LiM0DJa2TTa20ge7jVaXuQ)  
 
 
 :star: Here are some Power BI projects that I Developed:
