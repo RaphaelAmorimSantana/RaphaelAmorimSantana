@@ -69,6 +69,7 @@ I am a Data Analyst, Data Engineer and Administrator from Brazil <img src="https
   <img src="https://img.icons8.com/color/344/docker.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
   
 --- 
   
